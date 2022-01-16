@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+}
+#apps{
+    background-color: aqua;
+}
+#games{
+    background-color: salmon;
+}
+#chatbot{
+    background-color: springgreen;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
